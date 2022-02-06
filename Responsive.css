@@ -1,0 +1,288 @@
+@media (max-width:1400px) {
+    .carousel-caption {
+        bottom: 12.25rem;
+    }
+
+    .silder_text p {
+        padding: 10px 20px;
+    }
+
+
+    .post_overlay {
+        width: 95.5%;
+    }
+
+    .post_text_con {
+        width: 95.5%;
+    }
+
+
+    .post_overlay {
+        width: 82.5%;
+    }
+
+    .post_text_con {
+        width: 82.5%;
+    }
+
+}
+
+@media (max-width:1200px) {
+    .carousel-caption {
+        bottom: 8.25rem;
+    }
+
+    .silder_text p {
+        font-size: 15px;
+        padding: 10px 140px;
+    }
+
+
+    .post_overlay {
+        width: 95.5%;
+    }
+
+    .post_text_con {
+        width: 95.5%;
+    }
+}
+
+@media (max-width:992px) {
+    .carousel-caption {
+        bottom: 8.25rem;
+    }
+
+    .silder_text h4 {
+        font-size: 40px;
+    }
+
+    .silder_text h5 {
+        font-size: 20px;
+    }
+
+    .silder_text p {
+        font-size: 15px;
+        padding: 10px 100px;
+    }
+
+    .slider_But {
+        width: 130px;
+    }
+
+    .theme_text_con p {
+        padding: 0px 190px;
+    }
+
+    .post_img img {
+        width: 31.5vw;
+    }
+
+    .post_overlay {
+        width: 95%;
+    }
+
+    .post_text_con {
+        width: 95%;
+    }
+
+    .project_head_con p {
+        padding: 10px 120px;
+
+    }
+
+}
+
+@media (max-width:768px) {
+    .carousel-caption {
+        bottom: 2.25rem;
+    }
+
+    .silder_text h4 {
+        font-size: 35px;
+        margin: 0;
+    }
+
+    .silder_text p {
+        font-size: 13px;
+        padding: 10px 26px;
+    }
+
+    .slider_But {
+        width: 120px;
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .theme_text_con p {
+        padding: 0px 90px;
+    }
+
+    .post_img img {
+        width: 30.7vw;
+    }
+
+    .post_overlay {
+        width: 95%;
+    }
+
+    .post_text_con {
+        width: 95%;
+    }
+
+    .slick-prev {
+        left: 40%;
+    }
+
+    .wordpress_text_con h5 {
+        font-size: 18px;
+    }
+
+    .wordpress_text_con p {
+        font-size: 12px;
+    }
+
+    .project_head_con p {
+        padding: 10px 90px;
+    }
+
+    .video_main_container p {
+        padding: 0px 150px;
+
+    }
+
+    .mobile_img {
+        position: relative;
+    }
+
+    .mobile_img img {
+        position: absolute;
+        width: 50%;
+        top: 21.8%;
+        left: 25%;
+    }
+    .post_text_con h5 {
+        font-size: 16px;
+    }
+
+}
+
+@media (max-width:576px) {
+    .carousel-caption {}
+
+    .silder_text h5 {
+        font-size: 18px;
+    }
+
+    .silder_text h4 {
+        font-size: 25px;
+        margin: 0;
+    }
+
+    .silder_text p {
+        font-size: 10px;
+        padding: 10px 26px;
+        margin: 0;
+    }
+
+    .slider_But {
+        width: 100px;
+        height: 35px;
+        font-size: 12px;
+    }
+
+    .service_text p {
+        padding: 0px 100px;
+    }
+
+    .theme_text_con h4 {
+        margin: 0;
+        padding: 20px 0;
+    }
+
+    .theme_text_con p {
+        font-size: 15px;
+        padding: 0px 60px;
+    }
+
+
+    .post_img img {
+        width: 31vw;
+    }
+
+    .slick-prev {
+        left: 35%;
+    }
+
+    .wordpress_text_con h5 {
+        font-size: 13px;
+    }
+
+    .wordpress_text_con p {
+        font-size: 9px;
+    }
+
+    .Btn_01 {
+        font-size: 12px;
+        width: 120px;
+        height: 40px;
+    }
+
+    .project_head_con h4 {
+        font-size: 25px;
+    }
+
+    .project_head_con p {
+        padding: 8px 50px;
+    }
+
+    .video_main_container p {
+        padding: 0px 50px;
+        font-size: 14px;
+    }
+
+    .mobile_img {
+        position: relative;
+    }
+
+    .mobile_img img {
+        position: absolute;
+        width: 50%;
+        top: 47.5%;
+        left: 15%;
+    }
+    .post_head_con p {
+        padding: 20px 50px;
+    }
+    .slick-prev {
+        top: 110%;
+        left: 35%;
+    }
+
+    .slick-next {
+        top: 110%;
+        right: 45%;
+    }
+    .post_overlay {
+        width: 93%;
+    }
+    .post_text_con {
+        width: 93%;
+    }
+    .post_text_con h5 {
+        font-size: 18px;
+    }
+    .post_text_con h6 {
+        font-size: 13px;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+/*  */
